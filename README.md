@@ -1,10 +1,9 @@
-# opbreathe
-
-Operation: Breathe
+# Operation: Breathe
 
 A resource and virtual community for cystic fibrosis patients.
 
 ## Planned stack
+
 React w/ TypeScript
 Redux
 Node/Express
@@ -12,6 +11,7 @@ Mongo
 Some sort of CMS (Prismic or Contentful, most likely)
 
 ## My goals for this project
+
 - Build out a blog (with the help of some sort of CMS, ideally) so I can write articles to share with fellow patients.
 - Include tips from the community for how to cope with CF.
 - Potentially build out some sort of "chat" feature, although... that could get really interesting, really fast. Will think about this more. :)

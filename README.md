@@ -4,11 +4,12 @@ A resource and virtual community for cystic fibrosis patients.
 
 ## Planned stack
 
-React w/ TypeScript
-Redux
-Node/Express
-Mongo
-Some sort of CMS (Prismic or Contentful, most likely)
+- React w/ TypeScript
+- Redux
+- Node/Express
+- Mongo
+- Some sort of CMS (Prismic or Contentful, most likely)
+- Eventually want to convert this to a mobile app, so either React Native or Swift (or both).
 
 ## My goals for this project
 
